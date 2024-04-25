@@ -1,0 +1,27 @@
+{
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite dev",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "@sveltejs/kit": "2.5.4",
+    "@sveltejs/vite-plugin-svelte": "^3.0.2",
+    "autoprefixer": "^10.4.19",
+    "carbon-components-svelte": "^0.85.0",
+    "carbon-pictograms-svelte": "^12.10.0",
+    "carbon-preprocess-svelte": "^0.11.0",
+    "postcss": "^8.4.38",
+    "svelte": "^4.2.12",
+    "svelte-preprocess": "^5.1.4",
+    "tailwindcss": "^3.4.3",
+    "vite": "^5.2.4"
+  },
+  "dependencies": {
+    "carbon-icons-svelte": "^12.6.0"
+  },
+  "author": "Thomas Reinecke <thomas.reinecke@de.ibm.com>",
+  "license": "MIT"
+}
